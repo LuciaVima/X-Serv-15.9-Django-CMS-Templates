@@ -1,0 +1,5 @@
+<html>
+	<body bgcolor="turquoise">
+		<p><font color="blue"> {{contenido|safe}}</font></p>
+	</body>
+</html>
